@@ -8,7 +8,7 @@ license       = "MIT"
 # Dependencies
 
 requires "nim >= 0.20.0"
-requires "https://github.com/SeaniaTwix/sdl2_nim#87bf973"
+requires "https://github.com/SeaniaTwix/sdl2_nim#head"
 
 # Options
 
